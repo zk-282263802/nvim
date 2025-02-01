@@ -10,5 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.recipes.heirline-clock-statusline" },
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
+  { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.python" },
   -- import/override with your plugins folder
 }
