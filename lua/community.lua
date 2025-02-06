@@ -14,5 +14,6 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.code-runner.compiler-nvim" },
   { import = "astrocommunity.git.blame-nvim" },
+  { import = "astrocommunity.fuzzy-finder.fzf-lua" },
   -- import/override with your plugins folder
 }
