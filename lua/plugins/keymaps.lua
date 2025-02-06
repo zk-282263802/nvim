@@ -1,4 +1,5 @@
 local map = vim.keymap.set
+vim.opt.clipboard = "unnamedplus"
 
 -- move lines
 map("n", "<A-j>", "<cmd>execute 'move .+' . v:count1<cr>==", { desc = "Move Down" })
