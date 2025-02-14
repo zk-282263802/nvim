@@ -15,5 +15,7 @@ return {
   { import = "astrocommunity.code-runner.compiler-nvim" },
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.fuzzy-finder.fzf-lua" },
+  { import = "astrocommunity.utility.noice-nvim" },
+  { import = "astrocommunity.completion.com-cmdline" },
   -- import/override with your plugins folder
 }
